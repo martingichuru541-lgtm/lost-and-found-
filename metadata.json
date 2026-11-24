@@ -1,0 +1,8 @@
+{
+  "name": "KenyaOne Lost & Found",
+  "description": "National lost property and recovery platform with real-time camera QR handover scanning, automatic digital signing, secure ownership verification, and AI matching.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
